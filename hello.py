@@ -1,6 +1,6 @@
 x=10
 y=20
-z=40
+z=200
 sum=x+y+z
 print(sum)
 

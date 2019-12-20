@@ -1,4 +1,5 @@
-print("Welcome to the Python Training")
-print("Hello")
-print("consultadd")
+x=10
+y=30
+sum=x+y
+print(sum)
 
